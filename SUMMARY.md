@@ -19,7 +19,7 @@
   * 网络参考模型
   * [安全体系结构](an-quan-ti-xi-jie-gou.md)
     * [安全服务](an-quan-ti-xi-jie-gou/an-quan-fu-wu.md)
-    * 安全机制
-    * 安全管理
+    * [安全机制](an-quan-ti-xi-jie-gou/an-quan-ji-zhi.md)
+    * [安全管理](an-quan-ti-xi-jie-gou/an-quan-guan-li.md)
   * 安全模型
 
