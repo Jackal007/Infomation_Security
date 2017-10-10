@@ -24,5 +24,5 @@
   * 安全模型
 * 网络信息安全解决方案
   * [动态自适应网络模型](dong-tai-zi-shi-ying-wang-luo-mo-xing.md)
-* 网络信息安全等级与标准
+* [网络信息安全等级与标准](wang-luo-xin-xi-an-quan-deng-ji-yu-biao-zhun.md)
 
