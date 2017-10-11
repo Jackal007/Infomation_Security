@@ -34,8 +34,8 @@
         * [集中式密钥分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/ji-zhong-shi-mi-yao-fen-pei-fang-an.md)
         * [分布式密钥分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/fen-bu-shi-mi-yao-fen-pei-fang-an.md)
       * 非对称秘钥分配
-        * 公钥的分配
-        * 利用非对称密码技术进行对称密码技术密钥的分配
+        * [公钥的分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/gong-yao-de-fen-pei.md)
+        * [利用非对称密码技术进行对称密码技术密钥的分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/li-yong-fei-dui-cheng-mi-ma-ji-zhu-jin-xing-dui-cheng-mi-ma-ji-zhu-mi-yao-de-fen-pei.md)
     * 管理技术
     * 托管技术
     * 公钥基础设施PKI技术
