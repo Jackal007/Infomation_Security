@@ -43,7 +43,7 @@
       * [组成](mi-yao-fen-pei-yu-guan-li-ji-zhu/gong-yao-ji-chu-she-shi-pki-ji-zhu/zu-cheng.md)
       * [PKI系统](mi-yao-fen-pei-yu-guan-li-ji-zhu/gong-yao-ji-chu-she-shi-pki-ji-zhu/pkixi-tong.md)
       * [标准](mi-yao-fen-pei-yu-guan-li-ji-zhu/gong-yao-ji-chu-she-shi-pki-ji-zhu/biao-zhun.md)
-      * 应用与展望
+      * [应用与展望](mi-yao-fen-pei-yu-guan-li-ji-zhu/gong-yao-ji-chu-she-shi-pki-ji-zhu/ying-yong-yu-zhan-wang.md)
     * 授权管理基础设施PMI技术
   * 数字签名技术
   * 信息隐藏技术
