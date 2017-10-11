@@ -28,7 +28,12 @@
 * [密码技术](mi-ma-ji-zhu.md)
   * [对称密码技术](dui-cheng-mi-ma-ji-zhu.md)
   * [非对称密码技术](fei-dui-cheng-mi-ma-ji-zhu.md)
-  * 密钥分配与管理技术
+  * [密钥分配与管理技术](mi-yao-fen-pei-yu-guan-li-ji-zhu.md)
+    * [分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an.md)
+    * 管理技术
+    * 托管技术
+    * 公钥基础设施PKI技术
+    * 授权管理基础设施PMI技术
   * 数字签名技术
   * 信息隐藏技术
 
