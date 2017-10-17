@@ -30,10 +30,10 @@
   * [非对称密码技术](fei-dui-cheng-mi-ma-ji-zhu.md)
   * [密钥分配与管理技术](mi-yao-fen-pei-yu-guan-li-ji-zhu.md)
     * [分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an.md)
-      * 对称密钥分配
+      * [对称密钥分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/dui-cheng-mi-yao-fen-pei.md)
         * [集中式密钥分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/ji-zhong-shi-mi-yao-fen-pei-fang-an.md)
         * [分布式密钥分配方案](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/fen-bu-shi-mi-yao-fen-pei-fang-an.md)
-      * 非对称秘钥分配
+      * [非对称秘钥分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/fei-dui-cheng-mi-yao-fen-pei.md)
         * [公钥的分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/gong-yao-de-fen-pei.md)
         * [利用非对称密码技术进行对称密码技术密钥的分配](mi-yao-fen-pei-yu-guan-li-ji-zhu/fen-pei-fang-an/li-yong-fei-dui-cheng-mi-ma-ji-zhu-jin-xing-dui-cheng-mi-ma-ji-zhu-mi-yao-de-fen-pei.md)
     * [管理技术](mi-yao-fen-pei-yu-guan-li-ji-zhu/guan-li-ji-zhu.md)
