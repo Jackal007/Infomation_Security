@@ -46,5 +46,7 @@
       * [应用与展望](mi-yao-fen-pei-yu-guan-li-ji-zhu/gong-yao-ji-chu-she-shi-pki-ji-zhu/ying-yong-yu-zhan-wang.md)
     * [授权管理基础设施PMI技术](mi-yao-fen-pei-yu-guan-li-ji-zhu/shou-quan-guan-li-ji-chu-she-shi-pmi-ji-zhu.md)
   * [数字签名技术](shu-zi-qian-ming-ji-zhu.md)
+    * 原理
+    * 数字证书
   * [信息隐藏技术](xin-xi-yin-cang-ji-zhu.md)
 
