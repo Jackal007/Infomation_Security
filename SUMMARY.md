@@ -51,6 +51,6 @@
     * [数字签名标准与算法](shu-zi-qian-ming-ji-zhu/shu-zi-qian-ming-biao-zhun-yu-suan-fa.md)
   * [信息隐藏技术](xin-xi-yin-cang-ji-zhu.md)
     * [应用](xin-xi-yin-cang-ji-zhu/ying-yong.md)
-    * 数据隐写术
-    * 数字水印
+    * [数据隐写术](xin-xi-yin-cang-ji-zhu/shu-ju-yin-xie-zhu.md)
+    * [数字水印](xin-xi-yin-cang-ji-zhu/shu-zi-shui-yin.md)
 
