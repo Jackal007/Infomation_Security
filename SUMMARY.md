@@ -48,5 +48,6 @@
   * [数字签名技术](shu-zi-qian-ming-ji-zhu.md)
     * [原理](shu-zi-qian-ming-ji-zhu/yuan-li.md)
     * [数字证书](shu-zi-qian-ming-ji-zhu/shu-zi-zheng-shu.md)
+    * [数字签名标准与算法](shu-zi-qian-ming-ji-zhu/shu-zi-qian-ming-biao-zhun-yu-suan-fa.md)
   * [信息隐藏技术](xin-xi-yin-cang-ji-zhu.md)
 
