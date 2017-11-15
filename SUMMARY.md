@@ -96,7 +96,7 @@
       * [可信计算机系统评测标准（TCSEC）](fang-wen-kong-zhi/an-quan-ping-ce/ke-xin-ji-suan-ji-xi-tong-ping-ce-biao-zhun-ff08-tcsec.md)
       * [国标GB17859-1999](fang-wen-kong-zhi/an-quan-ping-ce/guo-biao-gb17859-1999.md)
   * [防火墙](fang-wen-kong-zhi/fang-huo-qiang.md)
-    * 防火墙类型
+    * [防火墙类型](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-lei-xing.md)
       * [数据包过滤路由器](fang-wen-kong-zhi/fang-huo-qiang/shu-ju-bao-guo-lv-lu-you-qi.md)
       * [代理服务器](fang-wen-kong-zhi/fang-huo-qiang/dai-li-fu-wu-qi.md)
     * [防火墙安全设计策略](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-an-quan-she-ji-ce-lve.md)
