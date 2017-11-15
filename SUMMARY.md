@@ -26,7 +26,7 @@
         * [专家系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuan-jia-xi-tong.md)
         * [基于模型的入侵检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/ji-yu-mo-xing-de-ru-qin-jian-ce.md)
         * [状态转换分析](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuang-tai-zhuan-huan-fen-xi.md)
-        * 模式匹配
+        * [模式匹配](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/mo-shi-pi-pei.md)
     * 入侵检测系统
     * 新技术的研究与应用
     * 安全审计
