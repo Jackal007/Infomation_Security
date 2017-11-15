@@ -17,7 +17,16 @@
   * [入侵检测技术](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu.md)
     * [入侵检测方法](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa.md)
       * [异常检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce.md)
-      * 误用检测
+        * [统计方法](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce/tong-ji-fang-fa.md)
+        * [预测模式生成法](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce/yu-ce-mo-shi-sheng-cheng-fa.md)
+        * [神经网络](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce/shen-jing-wang-luo.md)
+        * [免疫原理](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce/mian-yi-yuan-li.md)
+        * [SVM](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce/svm.md)
+      * [误用检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce.md)
+        * [专家系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuan-jia-xi-tong.md)
+        * [基于模型的入侵检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/ji-yu-mo-xing-de-ru-qin-jian-ce.md)
+        * [状态转换分析](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuang-tai-zhuan-huan-fen-xi.md)
+        * 模式匹配
     * 入侵检测系统
     * 新技术的研究与应用
     * 安全审计
