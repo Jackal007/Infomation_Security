@@ -27,9 +27,39 @@
         * [基于模型的入侵检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/ji-yu-mo-xing-de-ru-qin-jian-ce.md)
         * [状态转换分析](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuang-tai-zhuan-huan-fen-xi.md)
         * [模式匹配](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/mo-shi-pi-pei.md)
-    * 入侵检测系统
-    * 新技术的研究与应用
-    * 安全审计
+    * [入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong.md)
+      * [入侵检测系统的分类](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei.md)
+        * 按数据来源
+          * [基于主机的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-zhu-ji-de-ru-qin-jian-ce-xi-tong.md)
+          * [基于网络的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-wang-luo-de-ru-qin-jian-ce-xi-tong.md)
+          * [多源型入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/duo-yuan-xing-ru-qin-jian-ce-xi-tong.md)
+        * 按采用的入侵检测方法
+          * [异常检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/yi-chang-jian-ce-xi-tong.md)
+          * [误用检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wu-yong-jian-ce-xi-tong.md)
+          * 混和型入侵检测系统
+        * 按检测的时效性
+          * [离线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/li-xian-jian-ce-xi-tong.md)
+          * [在线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/zai-xian-jian-ce-xi-tong.md)
+        * 按系统的组织结构和数据处理方式
+          * [集中型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-zhong-xing.md)
+          * [分层型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/fen-ceng-xing.md)
+          * [完全分布型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wan-quan-fen-bu-xing.md)
+    * [新技术的研究与应用](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong.md)
+      * [数据挖掘](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/shu-ju-wa-jue.md)
+      * [数据融合](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/shu-ju-rong-he.md)
+      * [报警信息关联分析技术](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/bao-jing-xin-xi-guan-lian-fen-xi-ji-zhu.md)
+      * [入侵诱骗技术](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/ru-qin-you-pian-ji-zhu.md)
+      * [容侵技术](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/rong-qin-ji-zhu.md)
+    * [安全审计](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji.md)
+      * [安全审计自动响应](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-zi-dong-xiang-ying.md)
+      * [安全审计数据生成](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-shu-ju-sheng-cheng.md)
+      * [安全审计分析](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-fen-xi.md)
+      * [安全审计浏览](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-liu-lan.md)
+      * [安全审计事件选择](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-shi-jian-xuan-ze.md)
+      * [安全审计事件存储](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/an-quan-shen-ji-shi-jian-cun-chu.md)
+      * 分布式入侵检测和安全审计系统
+        * [多层次审计](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/duo-ceng-ci-shen-ji.md)
+        * [分布式审计](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-quan-shen-ji/fen-bu-shi-shen-ji.md)
 * [密码学](mi-ma-ji-zhu.md)
   * [对称密码技术](dui-cheng-mi-ma-ji-zhu.md)
   * [非对称密码技术](fei-dui-cheng-mi-ma-ji-zhu.md)
