@@ -73,8 +73,11 @@
       * [防火墙体系结构](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-an-quan-she-ji-ce-lve/fang-huo-qiang-ti-xi-jie-gou.md)
       * 网络服务访问权限策略
       * 防火墙设计策略及要求
-      * 防火墙与加密机制
-    * 防火墙发展的新方向
+      * [防火墙与加密机制](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-an-quan-she-ji-ce-lve/fang-huo-qiang-yu-jia-mi-ji-zhi.md)
+    * [防火墙发展的新方向](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-fa-zhan-de-xin-fang-xiang.md)
+      * [分布式防火墙技术](fang-wen-kong-zhi/fang-huo-qiang/fang-huo-qiang-fa-zhan-de-xin-fang-xiang/fen-bu-shi-fang-huo-qiang-ji-zhu.md)
+      * 以防火墙为核心的网络信息安全体系
+      * 透明接入技术
     * 防火墙选择原则与常见产品
 * 黑客与病毒防范技术
   * 病毒检测技术
