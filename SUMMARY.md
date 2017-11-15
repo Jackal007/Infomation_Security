@@ -28,22 +28,21 @@
         * [状态转换分析](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/zhuang-tai-zhuan-huan-fen-xi.md)
         * [模式匹配](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/wu-yong-jian-ce/mo-shi-pi-pei.md)
     * [入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong.md)
-      * [入侵检测系统的分类](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei.md)
-        * 按数据来源
-          * [基于主机的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-zhu-ji-de-ru-qin-jian-ce-xi-tong.md)
-          * [基于网络的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-wang-luo-de-ru-qin-jian-ce-xi-tong.md)
-          * [多源型入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/duo-yuan-xing-ru-qin-jian-ce-xi-tong.md)
-        * 按采用的入侵检测方法
-          * [异常检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/yi-chang-jian-ce-xi-tong.md)
-          * [误用检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wu-yong-jian-ce-xi-tong.md)
-          * 混和型入侵检测系统
-        * 按检测的时效性
-          * [离线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/li-xian-jian-ce-xi-tong.md)
-          * [在线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/zai-xian-jian-ce-xi-tong.md)
-        * 按系统的组织结构和数据处理方式
-          * [集中型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-zhong-xing.md)
-          * [分层型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/fen-ceng-xing.md)
-          * [完全分布型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wan-quan-fen-bu-xing.md)
+      * [按数据来源](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/an-shu-ju-lai-yuan.md)
+        * [基于主机的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-zhu-ji-de-ru-qin-jian-ce-xi-tong.md)
+        * [基于网络的入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-yu-wang-luo-de-ru-qin-jian-ce-xi-tong.md)
+        * [多源型入侵检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/duo-yuan-xing-ru-qin-jian-ce-xi-tong.md)
+      * 按采用的入侵检测方法
+        * [异常检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/yi-chang-jian-ce-xi-tong.md)
+        * [误用检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wu-yong-jian-ce-xi-tong.md)
+        * 混和型入侵检测系统
+      * 按检测的时效性
+        * [离线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/li-xian-jian-ce-xi-tong.md)
+        * [在线检测系统](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/zai-xian-jian-ce-xi-tong.md)
+      * 按系统的组织结构和数据处理方式
+        * [集中型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/ji-zhong-xing.md)
+        * [分层型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/fen-ceng-xing.md)
+        * [完全分布型](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-xi-tong/ru-qin-jian-ce-xi-tong-de-fen-lei/wan-quan-fen-bu-xing.md)
     * [新技术的研究与应用](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong.md)
       * [数据挖掘](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/shu-ju-wa-jue.md)
       * [数据融合](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/xin-ji-zhu-de-yan-jiu-yu-ying-yong/shu-ju-rong-he.md)
