@@ -89,7 +89,7 @@
     * [数据隐写术](xin-xi-yin-cang-ji-zhu/shu-ju-yin-xie-zhu.md)
     * [数字水印](xin-xi-yin-cang-ji-zhu/shu-zi-shui-yin.md)
 * [访问控制](fang-wen-kong-zhi.md)
-  * 访问控制技术
+  * [访问控制技术](fang-wen-kong-zhi/fang-wen-kong-zhi-ji-zhu.md)
     * [方法](fang-wen-kong-zhi/fang-fa.md)
     * [模型](fang-wen-kong-zhi/mo-xing.md)
     * [安全评测](fang-wen-kong-zhi/an-quan-ping-ce.md)
