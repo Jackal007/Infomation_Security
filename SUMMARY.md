@@ -82,15 +82,15 @@
 * 黑客与病毒防范技术
   * 病毒检测技术
   * 病毒防范技术
-* [网络参考模型和安全体系结构](wang-luo-can-kao-mo-xing-he-an-quan-ti-xi-jie-gou.md)
-  * [网络的体系结构](wang-luo-de-ti-xi-jie-gou.md)
-  * 网络参考模型
-  * [安全体系结构](an-quan-ti-xi-jie-gou.md)
-    * [安全服务](an-quan-ti-xi-jie-gou/an-quan-fu-wu.md)
-    * [安全机制](an-quan-ti-xi-jie-gou/an-quan-ji-zhi.md)
-    * [安全管理](an-quan-ti-xi-jie-gou/an-quan-guan-li.md)
-  * 安全模型
 * 网络信息安全解决方案
+  * [网络参考模型和安全体系结构](wang-luo-can-kao-mo-xing-he-an-quan-ti-xi-jie-gou.md)
+    * [网络的体系结构](wang-luo-de-ti-xi-jie-gou.md)
+    * 网络参考模型
+    * [安全体系结构](an-quan-ti-xi-jie-gou.md)
+      * [安全服务](an-quan-ti-xi-jie-gou/an-quan-fu-wu.md)
+      * [安全机制](an-quan-ti-xi-jie-gou/an-quan-ji-zhi.md)
+      * [安全管理](an-quan-ti-xi-jie-gou/an-quan-guan-li.md)
+    * 安全模型
   * [动态自适应网络模型](dong-tai-zi-shi-ying-wang-luo-mo-xing.md)
   * [网络信息安全等级与标准](wang-luo-xin-xi-an-quan-deng-ji-yu-biao-zhun.md)
 
