@@ -1,30 +1,26 @@
 # Summary
 
 * [Introduction](README.md)
-* [网络参考模型和安全体系结构](wang-luo-can-kao-mo-xing-he-an-quan-ti-xi-jie-gou.md)
-  * [网络的体系结构](wang-luo-de-ti-xi-jie-gou.md)
-  * 网络参考模型
-  * [安全体系结构](an-quan-ti-xi-jie-gou.md)
-    * [安全服务](an-quan-ti-xi-jie-gou/an-quan-fu-wu.md)
-    * [安全机制](an-quan-ti-xi-jie-gou/an-quan-ji-zhi.md)
-    * [安全管理](an-quan-ti-xi-jie-gou/an-quan-guan-li.md)
-  * 安全模型
-* 网络入侵技术
-  * 端口探测技术
-  * 操作系统探测技术
-  * 漏洞分析技术
-  * 基于字典的口令破解技术
-  * 缓冲区溢出攻击
-  * 注入类型的攻击
-  * 木马
-  * 蠕虫病毒
-  * 拒绝服务攻击
-  * 钓鱼类型的攻击
-  * 网络嗅探技术
-  * 跨站攻击技术
-* 网络信息安全解决方案
-  * [动态自适应网络模型](dong-tai-zi-shi-ying-wang-luo-mo-xing.md)
-* [网络信息安全等级与标准](wang-luo-xin-xi-an-quan-deng-ji-yu-biao-zhun.md)
+* [网络入侵](wang-luo-ru-qin.md)
+  * 入侵技术
+    * 端口探测技术
+    * 操作系统探测技术
+    * 漏洞分析技术
+    * 基于字典的口令破解技术
+    * 缓冲区溢出攻击
+    * 注入类型的攻击
+    * 木马
+    * 蠕虫病毒
+    * 拒绝服务攻击
+    * 网络嗅探技术
+    * 跨站攻击技术
+  * [入侵检测技术](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu.md)
+    * [入侵检测方法](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa.md)
+      * [异常检测](wang-luo-ru-qin/ru-qin-jian-ce-ji-zhu/ru-qin-jian-ce-fang-fa/yi-chang-jian-ce.md)
+      * 误用检测
+    * 入侵检测系统
+    * 新技术的研究与应用
+    * 安全审计
 * [密码学](mi-ma-ji-zhu.md)
   * [对称密码技术](dui-cheng-mi-ma-ji-zhu.md)
   * [非对称密码技术](fei-dui-cheng-mi-ma-ji-zhu.md)
@@ -59,4 +55,18 @@
   * 防火墙安全设计策略
   * 防火墙发展的新方向
   * 防火墙选择原则与常见产品
+* 黑客与病毒防范技术
+  * 病毒检测技术
+  * 病毒防范技术
+* [网络参考模型和安全体系结构](wang-luo-can-kao-mo-xing-he-an-quan-ti-xi-jie-gou.md)
+  * [网络的体系结构](wang-luo-de-ti-xi-jie-gou.md)
+  * 网络参考模型
+  * [安全体系结构](an-quan-ti-xi-jie-gou.md)
+    * [安全服务](an-quan-ti-xi-jie-gou/an-quan-fu-wu.md)
+    * [安全机制](an-quan-ti-xi-jie-gou/an-quan-ji-zhi.md)
+    * [安全管理](an-quan-ti-xi-jie-gou/an-quan-guan-li.md)
+  * 安全模型
+* 网络信息安全解决方案
+  * [动态自适应网络模型](dong-tai-zi-shi-ying-wang-luo-mo-xing.md)
+  * [网络信息安全等级与标准](wang-luo-xin-xi-an-quan-deng-ji-yu-biao-zhun.md)
 
