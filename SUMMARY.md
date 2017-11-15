@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [网络入侵](wang-luo-ru-qin.md)
   * 入侵技术
-    * 端口探测技术
+    * [端口探测技术](wang-luo-ru-qin/duan-kou-tan-ce-ji-zhu.md)
     * 操作系统探测技术
     * 漏洞分析技术
     * 基于字典的口令破解技术
