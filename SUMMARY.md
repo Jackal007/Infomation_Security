@@ -61,6 +61,7 @@
 * [访问控制](fang-wen-kong-zhi.md)
   * 访问控制技术
     * [方法](fang-wen-kong-zhi/fang-fa.md)
+    * [模型](fang-wen-kong-zhi/mo-xing.md)
   * 防火墙技术基础
   * 防火墙安全设计策略
   * 防火墙发展的新方向
